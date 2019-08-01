@@ -1,4 +1,4 @@
-#Simple personal asssistant
+# Simple personal asssistant
 Simple personal assistant that recognize your voice and search for results on **wolframalpha** and **wikipedia**
 
 ## Usage
